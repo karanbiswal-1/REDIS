@@ -1,0 +1,2 @@
+# REDIS
+Trying out redis
